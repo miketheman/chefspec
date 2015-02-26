@@ -1,6 +1,6 @@
 Contributing to ChefSpec
 ========================
-Pull requests are merged via Github, you can find the documentation about how to fork a repository and start contributing to ChefSpec here [https://help.github.com/articles/fork-a-repo](https://help.github.com/articles/fork-a-repo).
+Pull requests are merged via GitHub, you can find the documentation about how to fork a repository and start contributing to ChefSpec here [https://help.github.com/articles/fork-a-repo](https://help.github.com/articles/fork-a-repo).
 
 All contributions are welcome to be submitted for review for inclusion, but before they will be accepted, we ask that you follow these simple steps:
 
@@ -28,7 +28,7 @@ Coding Standards
 The submitted code should be compatible with the standard Ruby coding guidelines. Here are some additional resources:
 
  * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
- * [Github Styleguide](https://github.com/styleguide/ruby)
+ * [GitHub Styleguide](https://github.com/styleguide/ruby)
 
 There is a tool called [Cane](https://github.com/square/cane) that allows you to validate your code's ABC complexity and documentation.
 
